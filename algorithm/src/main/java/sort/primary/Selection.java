@@ -5,7 +5,7 @@ import sort.SortCommonUtils;
 /**
  * @author Ray
  * @date 2021/5/18 10:54
- * @description 选择排序
+ * @description 选择排序：每次找到剩余数组中最小的值，将最小值和剩余数组的第一个数调换位置
  */
 public class Selection {
 
